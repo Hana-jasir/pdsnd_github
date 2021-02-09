@@ -1,6 +1,7 @@
 "Hana aljaser
 1-2-2021
-adding this project to git command practice"
+adding this project to git command practice
+this code for analyzing bikeshare dataset"
 
 import time
 import pandas as pd
