@@ -1,5 +1,6 @@
 "Hana aljaser
-1-2-2021"
+1-2-2021
+adding this project to git command practice"
 
 import time
 import pandas as pd
