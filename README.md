@@ -8,7 +8,7 @@ Git commands
 practice Git commands
 
 ### Files used
-Include the files used
+bikeshare
 
 ### Credits
 Udacity
